@@ -1,0 +1,11 @@
+C:\Users\triprog-3\source\repos\Tetris\Tetris\bin\Debug\netcoreapp2.0\Tetris.deps.json
+C:\Users\triprog-3\source\repos\Tetris\Tetris\bin\Debug\netcoreapp2.0\Tetris.runtimeconfig.json
+C:\Users\triprog-3\source\repos\Tetris\Tetris\bin\Debug\netcoreapp2.0\Tetris.runtimeconfig.dev.json
+C:\Users\triprog-3\source\repos\Tetris\Tetris\bin\Debug\netcoreapp2.0\Tetris.dll
+C:\Users\triprog-3\source\repos\Tetris\Tetris\bin\Debug\netcoreapp2.0\Tetris.pdb
+C:\Users\triprog-3\source\repos\Tetris\Tetris\obj\Debug\netcoreapp2.0\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\triprog-3\source\repos\Tetris\Tetris\obj\Debug\netcoreapp2.0\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\triprog-3\source\repos\Tetris\Tetris\obj\Debug\netcoreapp2.0\Tetris.AssemblyInfoInputs.cache
+C:\Users\triprog-3\source\repos\Tetris\Tetris\obj\Debug\netcoreapp2.0\Tetris.AssemblyInfo.cs
+C:\Users\triprog-3\source\repos\Tetris\Tetris\obj\Debug\netcoreapp2.0\Tetris.dll
+C:\Users\triprog-3\source\repos\Tetris\Tetris\obj\Debug\netcoreapp2.0\Tetris.pdb
